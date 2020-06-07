@@ -1,4 +1,4 @@
-# react-deploy
+# React Deploy
 
 No diretório do projeto, você deve executar:
 
